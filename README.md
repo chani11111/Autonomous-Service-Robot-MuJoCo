@@ -30,8 +30,9 @@ pip install mujoco numpy
 How to Run
 To start the simulation loop and open the passive MuJoCo viewer, simply execute the main script:
 
-Bash
+```Bash
 python main.py
+```
 To terminate the simulation, close the MuJoCo visualization window or press Ctrl + C in your terminal.
 
 Performance Metrics & KPIs   
