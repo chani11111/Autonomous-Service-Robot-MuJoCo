@@ -26,6 +26,7 @@ Before running the simulation, ensure you have Python installed along with the r
 
 ```bash
 pip install mujoco numpy
+```
 How to Run
 To start the simulation loop and open the passive MuJoCo viewer, simply execute the main script:
 
